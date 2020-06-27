@@ -58,7 +58,6 @@ Link to research papers:
 1. https://arxiv.org/pdf/1802.08452.pdf
 2. https://arxiv.org/pdf/1906.03870.pdf
 3. https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf
-
 4. http://www.apsipa.org/proceedings/2018/pdfs/0001010.pdf
 5. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208702
 6. https://www.audiolabs-erlangen.de/content/05-fau/professor/00-mueller/03-publications/2018_SchreiberMueller_TempoCNN_ISMIR_ePrint.pdf
@@ -81,3 +80,10 @@ Useful links for understanding the concept:
 5. https://www.audiolabs-erlangen.de/resources/MIR/FMP/C7/C7S2_CENS.html
 6. https://getsongbpm.com/tools/audio
 7. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+Reference from Github:
+1. https://github.com/taylorhawks/RNN-music-recommender
+2. https://github.com/mattdennewitz/playlist-to-vec
+3. https://github.com/alistairwgillespie/wmw_deep_playlist_generator/blob/master/docs/REPORT.md
+:::
+*Note: Special thank to Mr. Taylor's for his RNN Music Recommender System because this enables me to understand the concept of the Circle of Fifths and applied to my work.*
