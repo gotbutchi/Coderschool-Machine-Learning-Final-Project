@@ -49,3 +49,35 @@ Main page to get the user's HR:
 
 Prediction page to find next tempo-similar song and create a playlist on Spotify:
 ![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/predic.png)
+
+*Note: For the website I use the pre-designed theme by Creative Tim (https://github.com/creativetimofficial)*
+
+## Helpful links
+:::spoiler Links
+Link to research papers:
+1. https://arxiv.org/pdf/1802.08452.pdf
+2. https://arxiv.org/pdf/1906.03870.pdf
+3. https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf
+
+4. http://www.apsipa.org/proceedings/2018/pdfs/0001010.pdf
+5. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208702
+6. https://www.audiolabs-erlangen.de/content/05-fau/professor/00-mueller/03-publications/2018_SchreiberMueller_TempoCNN_ISMIR_ePrint.pdf
+7. https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP
+8. https://www.frontiersin.org/articles/10.3389/fams.2019.00044/full
+9. http://ismir2009.ismir.net/proceedings/OS4-2.pdf
+10. https://evazangerle.at/publication/somera-15/somera-15.pdf
+11. https://web.stanford.edu/~jlmcc/papers/PDP/Chapter3.pdf
+12. https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_27.pdf
+13. https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+14. https://www.stat.umn.edu/arc/yjpower.pdf
+15. http://ismir2002.ismir.net/proceedings/03-SP02-1.pdf
+16. https://mtosmt.org/issues/mto.07.13.3/mto.07.13.3.benadon.html
+
+Useful links for understanding the concept:
+1. http://mac.citi.sinica.edu.tw/~yang/teaching/lecture12_tempo_beat_rhythm.pdf
+2. https://medium.com/@silvercloud438/how-i-taught-a-neural-network-to-understand-similarities-in-music-audio-d4fca54c1aed
+3. http://arno.uvt.nl/show.cgi?fid=136352
+4. https://nlml.github.io/neural-networks/detecting-bpm-neural-networks/
+5. https://www.audiolabs-erlangen.de/resources/MIR/FMP/C7/C7S2_CENS.html
+6. https://getsongbpm.com/tools/audio
+7. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
