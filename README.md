@@ -53,7 +53,7 @@ Prediction page to find next tempo-similar song and create a playlist on Spotify
 *Note: For the website I use the pre-designed theme by Creative Tim (https://github.com/creativetimofficial)*
 
 ## Helpful links
-:::spoiler Links
+
 Link to research papers:
 1. https://arxiv.org/pdf/1802.08452.pdf
 2. https://arxiv.org/pdf/1906.03870.pdf
@@ -85,5 +85,5 @@ Reference from Github:
 1. https://github.com/taylorhawks/RNN-music-recommender
 2. https://github.com/mattdennewitz/playlist-to-vec
 3. https://github.com/alistairwgillespie/wmw_deep_playlist_generator/blob/master/docs/REPORT.md
-:::
+
 *Note: Special thank to Mr. Taylor's for his RNN Music Recommender System because this enables me to understand the concept of the Circle of Fifths and applied to my work.*
