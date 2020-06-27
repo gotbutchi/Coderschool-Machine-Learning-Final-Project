@@ -41,4 +41,11 @@ To tackle this problem, the project needed to perform the following tasks:
 6. Post a playlist to Spotify.
 
 ## Final Application
+Fitbit watch & the online application (web demo):
 ![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/demo.png)
+
+Main page to get the user's HR:
+![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/main.png)
+
+Prediction page to find next tempo-similar song and create a playlist on Spotify:
+![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/predic.png)
