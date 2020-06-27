@@ -20,7 +20,7 @@ Recent developments in deep neural network and recurrent neural network architec
 
 Research on this topic (my inspiration): https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01361/full
 
-## Concept
+## Problem Statement: Concept
 
 ![](https://i.imgur.com/SXuXRpY.png)
 
@@ -29,3 +29,16 @@ A good playlist is more than a sequence of similar songs. Therefore, in this pro
 
 The system gets the bpm(beats per minute) of every song on your playlist and then detects your running/walking tempo from an API (fitbit) and suggests a playlist of smooth transition between each song with similar tempo (in your chosen range) for you. Ultimately, this system is structured in a way as to deliver **harmonic sequences of tunes** that meld into an hour of blissful listening.
 
+## Solution Statement
+
+To tackle this problem, the project needed to perform the following tasks:
+
+1. Extract metadata about trendy/featured music playlists from Spotify to date.
+2. Transform track metadata.
+3. Train a sequence estimator that learns the traits and relationships of each playlist.
+4. Get the heart rate of the user through Fitbit API
+5. Create a playlist with similar tempo and key using the estimator and Spotify's recommendation API.
+6. Post a playlist to Spotify.
+
+## Final Application
+![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/demo.png)
