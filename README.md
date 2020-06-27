@@ -48,7 +48,7 @@ Main page to get the user's HR:
 ![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/main.png)
 
 Prediction page to find next tempo-similar song and create a playlist on Spotify:
-![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/predic.png)
+![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/prediction.png)
 
 *Note: For the website I use the pre-designed theme by Creative Tim (https://github.com/creativetimofficial)*
 
