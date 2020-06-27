@@ -1,6 +1,9 @@
 # Coderschool-Machine-Learning-Final-Project
 Final Project about Tempo-aware Music Recommendation System
 
+**RUN TO THE BEATS**
+![](https://github.com/gotbutchi/Coderschool-Machine-Learning-Final-Project/blob/master/pic/theme.png)
+
 # Tempo-aware Music Recommendation System
 
 ## Introduction: Domain Background
